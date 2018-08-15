@@ -2,7 +2,7 @@
   "name": "sockjs-client-ds",
   "description": "SockJS-client is a browser JavaScript library that provides a WebSocket-like object.",
   "version": "1.1.6",
-  "author": "Bryce Kahle",
+  "author": "WilliamsGuo",
   "jsdelivr": "dist/sockjs.min.js",
   "browser": {
     "./lib/transport/driver/websocket.js": "./lib/transport/browser/websocket.js",
